@@ -1,3 +1,12 @@
+trinken -- to drink
+
+trink
+
+I -- Ich     				-- trink + e -- trinke  	--> base + e
+You -- Du/Sie(formal)				
+			          Du	-- trink + st -- trinkst 	--> base + st
+						    Sie -- trinken
+						
 He She It -- Er Sie Es      -- trink + t -- trinkt 		--> base + t
 
 We -- Wir					-- trinken
