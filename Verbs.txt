@@ -1,0 +1,20 @@
+Essen -- to eat
+Schrieben -- to write
+Treffen -- to meet
+Kochen -- to cook
+Arbieten -- to work
+Trinken -- to drink
+Schwimmen -- to swim --> Du Schwimmst on Firday
+Reisen -- to travel --> Sie reisen on weekend
+Sehen -- to see --> Wir sehen Anabella
+Baden -- to bath --> Du badst in lake
+Sprechen -- to speak
+Aufhören -- to stop
+Machen -- to make
+Gehen -- to go
+Kommen -- to come
+Haben -- to have
+Hören -- to hear
+Laufen -- to walk/run
+Lachen -- to laugh
+Fahren -- to drive
