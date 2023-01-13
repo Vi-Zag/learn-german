@@ -18,3 +18,8 @@ Hören -- to hear
 Laufen -- to walk/run
 Lachen -- to laugh
 Fahren -- to drive
+Sagen -- to say
+Geben -- to give
+Wissen -- to know
+Kennen -- to know
+Finden -- to find
